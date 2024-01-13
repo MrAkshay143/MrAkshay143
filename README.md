@@ -42,7 +42,7 @@
 
 - 👨‍💻 Explore my projects on [Akshay's Workspace](https://yourcart.in).
 
-- 💬 Ready to discuss anything related to **Java, Python, PHP, NodeJS, and React**.
+- 💬 Discuss anything related to **Java, Python, PHP, NodeJS, and React**.
 
 - 📫 Reach me at **contact@makshay.in**.
 
