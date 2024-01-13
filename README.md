@@ -139,7 +139,7 @@
 
 <h3 align="left">Achievements:</h3>
 
-[![An image of @MrAkshay143's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/MrAkshay143)](https://holopin.io/@MrAkshay143)
+
 <br><br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
