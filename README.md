@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Akshay Mondal</h1>
 <h3 align="center">A passionate Programmer from West Bengal</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<p align="center">I'm a self-taught web developer and designer, passionate about the transformative impact of computer technology 🌐. My journey began in the 10th grade, learning and practicing through internet resources. Despite lacking formal education, I've honed my skills and explored new tech stacks 💻, channeling this enthusiasm into crafting innovative digital experiences. As of 2022, I've also delved into software and app development, adding a new dimension to my creative journey. 🛠️</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=MrAkshay143&label=Profile%20views&color=0e75b6&style=flat" alt="Akshay Mondal" /> 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="Akshay Mondal's languages" /> -->
