@@ -3,7 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm Akshay Mondal</h1>
 <h3 align="center">A passionate Programmer from West Bengal</h3>
-<p align="center">I'm a self-taught web developer and designer, passionate about the transformative impact of computer technology 🌐. My journey began in the 10th grade, learning and practicing through internet resources. Despite lacking formal education, I've honed my skills and explored new tech stacks 💻, channeling this enthusiasm into crafting innovative digital experiences. As of 2022, I've also delved into software and app development, adding a new dimension to my creative journey. 🛠️</p>
+<p align="center">Self-taught web developer & designer. Passionate about tech 🌐 since 10th grade. Explores new stacks 💻 & crafts cool digital experiences. Venturing into software and app development since 2022. 🛠️</p>
+
 
 
 <p align="center"> 
