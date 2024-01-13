@@ -1,4 +1,4 @@
-![logo](AkshayM.gif)
+![logo](Akshay.gif)
 <img align="left" src="back.gif" width="21%" style="display:inline;"><img align="right" src="back.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Akshay Mondal</h1>
