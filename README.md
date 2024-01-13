@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/D5616AQE2N9GBbNtpzQ/profile-displaybackgroundimage-shrink_350_1400/0/1677050364498?e=1710374400&v=beta&t=eIu5JksQJtEJ7beGV-ZwMK69Ilk46IdrDuscZ9anzT4)
+![logo](akshay.png)
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Akshay Mondal</h1>
