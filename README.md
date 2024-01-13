@@ -148,7 +148,8 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I value building connections with diverse individuals. If you're interested in getting to know me more, feel free to reach out!
+</b> :)</em>
 
 <br>
 <p align="right" > Created with 🧡 by <a href="http://imakshay.in">Akshay Mondal</a></p>
